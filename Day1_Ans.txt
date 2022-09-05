@@ -1,0 +1,95 @@
+Q1)
+	
+	public class Main {
+		public static void main(String[] args) {
+			System.out.print("Hello I am enjoying coding");
+		}
+	}
+	
+	
+Q2)
+
+	
+	public class Main {
+		public static void main(String[] args) {
+			System.out.println("Hello");
+			System.out.println("I");
+			System.out.println("am");
+			System.out.println("enjoying");
+			System.out.print("coding");
+		  
+		}
+	}
+	
+Q3)
+
+
+	public class Main {
+		public static void main(String[] args) {
+			int sum=100+8+3;
+			int mul=100*8*3;
+			System.out.println(sum);
+			System.out.println(mul);
+		}
+	}
+	
+Q4)
+
+	public class Main {
+		public static void main(String[] args) {
+			int diff=100-40;
+			System.out.println(diff);
+		}
+	}
+	
+Q5)
+
+
+	public class Main {
+		public static void main(String[] args) {
+			String star="*****";
+			System.out.println(star);
+			System.out.println(star);
+			System.out.println(star);
+			System.out.println(star);
+			System.out.println(star);
+			System.out.println(star);
+		}
+	}
+	
+Q6)
+
+
+	public class Main {
+		public static void main(String[] args) {
+			String star="* *",star1="****";
+			System.out.println(star);
+			System.out.println(star);
+			System.out.println(star);
+			System.out.println(star);
+			System.out.println(star);
+			System.out.println(star1);
+		}
+	}
+	
+Q7)
+
+
+	public class Main {
+		public static void main(String[] args) {
+			int num=987653;
+			num=num%10;
+			System.out.println(num);
+		}
+	}
+	
+Q8)
+
+	public class Main {
+		public static void main(String[] args) {
+			int m=15,n=4;
+			System.out.println(m+n);
+			System.out.println(m-n);
+			System.out.println(m*n);        
+		}
+	}
